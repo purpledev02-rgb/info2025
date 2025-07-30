@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Semana da Inovação - RSCVirtual</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Semana da Inovação RSCVirtual</h1>
+    <p>Transformando ideias em soluções para a comunidade escolar!</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#sobre">Sobre</a></li>
+      <li><a href="#programacao">Programação</a></li>
+      <li><a href="#inscricao">Inscrição</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="sobre">
+      <h2>Sobre o Evento</h2>
+      <p>O evento tem como objetivo incentivar projetos criativos dos estudantes da rede pública.</p>
+    </section>
+
+    <section id="programacao">
+      <h3>Programação</h3>
+      <ul>
+        <li>Palestras sobre Tecnologia e Inovação</li>
+        <li>Oficinas de Programação Web</li>
+        <li>Apresentação de Projetos</li>
+      </ul>
+    </section>
+
+    <section id="inscricao">
+      <h3>Etapas de Inscrição</h3>
+      <ol>
+        <li>Preencher formulário online</li>
+        <li>Confirmar participação</li>
+        <li>Comparecer ao evento com documento</li>
+      </ol>
+    </section>
+
+    <section>
+      <h3>Imagem do Evento</h3>
+      <img src="img/evento.jpg" alt="Banner do Evento" width="400">
+
+      <h3>Vídeo Promocional</h3>
+      <iframe width="400" height="250" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 RSCVirtual - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
